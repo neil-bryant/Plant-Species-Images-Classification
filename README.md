@@ -1,1 +1,2 @@
-google collab: https://colab.research.google.com/drive/17lFpbhGEoBsNs39SBaARF70fiS1h4D3b?usp=sharing
+EXPORTED TEACHABLE MACHINE MODEL FILES:  
+https://drive.google.com/drive/folders/1fz8Q_8FbA6DLB_MX6TLE2_w4T-x489TN?usp=sharing
