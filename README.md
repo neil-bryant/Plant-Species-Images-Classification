@@ -47,12 +47,13 @@ Scientific Name: Helichrysum spp.
 Description: Everlasting plants are known for their papery flowers that retain color and shape even after drying. They are widely used in dried flower arrangements and symbolize lasting beauty.
 
 5. Epidendrum
+<img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/fb6a5e50-a125-40b6-be4d-1bb03306730b" />
 
 Scientific Name: Epidendrum radicans
 Description: Epidendrum is a large genus of orchids that grow in many habitats, especially in tropical regions. They produce clusters of small, colorful flowers and are known for their adaptability.
 
 6. Pleurothallis
-<img width="454" height="590 alt="image" src="https://github.com/user-attachments/assets/fb00fba2-59c7-4af3-bfd2-e96cf9eb1a92" />
+<img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/fb00fba2-59c7-4af3-bfd2-e96cf9eb1a92" />
 
 Scientific Name: Pleurothallis spp.
 
