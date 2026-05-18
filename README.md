@@ -91,7 +91,7 @@ Scientific Name: Masdevallia spp.
 Description: Masdevallia orchids are cool-growing plants with triangular, brightly colored flowers. They are native to high-altitude cloud forests in South America.
 
 12. Coelogyne
-<img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/b188da51-cba1-4295-ae72-cb3c43f4efd7" />
+<img width="459" height="590" alt="image" src="https://github.com/user-attachments/assets/07ec627b-01ba-45a6-bc93-bf7fa999e3a2" />
 
 Scientific Name: Coelogyne spp.
 Description: Coelogyne orchids produce elegant flowers that are often white or greenish with detailed markings. They thrive in cool to intermediate climates.
