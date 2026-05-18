@@ -26,12 +26,14 @@ B. Plant Species Section
 <img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/2b62d523-6a0e-42fc-826c-c95d7cb8ede0" />
 
 Scientific Name: Aerides lawrenceae
+
 Description: Aerides is a genus of epiphytic orchids native to tropical and subtropical Asia. They are known for their long, hanging flower spikes and fragrant blooms. The flowers are usually white, pink, or purple and grow in dense clusters.
 
 2. Bulbophyllum
 <img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/e249da51-622e-44b1-be55-526d77992610" />
 
 Scientific Name: Bulbophyllum flavescens
+
 Description: Bulbophyllum is a large and diverse genus of epiphytic orchids found in tropical and subtropical regions. They are known for their highly unusual flower structures, wide variation in form, and adaptations that help attract specific pollinators, sometimes through strong scents.
 
 3. Maxillaria
