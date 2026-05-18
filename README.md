@@ -177,6 +177,8 @@ E. Model Testing
 
 <img width="124" height="489" alt="Sample 9" src="https://github.com/user-attachments/assets/8bfa3851-2f42-42f9-af98-e27750842a05" />  <img width="127" height="490" alt="Sample 10" src="https://github.com/user-attachments/assets/e90b52d6-de97-4f11-a010-39c3af24df98" />
 
+<img width="979" height="300" alt="image" src="https://github.com/user-attachments/assets/5ac6c066-102e-4128-8aad-2458c38159a2" />
+
 Dataset / Exported Model Files:
 https://drive.google.com/drive/folders/1YayFfeVTXGSpMxTL2guComR6eYvTnwfJ?usp=sharing
 
