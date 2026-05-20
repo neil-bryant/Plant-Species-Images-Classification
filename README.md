@@ -149,6 +149,7 @@ Scientific Name: Hybrid / Dataset Class
 Description: Marriot is used as a classification label in the dataset, likely representing a hybrid or grouped orchid category for training purposes.
 
 19. Orsum
+<img width="454" height="590" alt="image" src="https://github.com/user-attachments/assets/c08bd8b6-09d1-42d0-a66e-9b4bcac0d954" />
 
 Scientific Name: Dataset Label (Unclassified)
 
